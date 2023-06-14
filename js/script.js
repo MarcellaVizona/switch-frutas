@@ -1,4 +1,4 @@
-var fruta = "fruta";
+var fruta = "";
 
    fruta = prompt('Digite o nome de uma fruta');
 
