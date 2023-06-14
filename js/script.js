@@ -2,7 +2,7 @@ var fruta = "";
 
    fruta = prompt('Digite o nome de uma fruta');
 
-switch (fruta.toLocaleLowerCase()){
+switch (fruta.toLowerCase()){
   case "Maçã":
     alert("Não vendemos esta fruta aqui");
     break;
